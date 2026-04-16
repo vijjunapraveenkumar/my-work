@@ -4,7 +4,7 @@
 
 ### 🔹 Reference Image
 
-![Reference](04_renders/reference.png)
+![Reference](reference.png)
 
 ### 🔹 3D Model
 
