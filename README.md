@@ -12,7 +12,7 @@
 
 ### 🔹 Comparison (Real vs Model)
 
-![Comparison](04_renders/comparison.png)
+![Comparison](comparison.png)
 
 ---
 
