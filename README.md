@@ -8,7 +8,7 @@
 
 ### 🔹 3D Model
 
-![Model](04_renders/model.png)
+![Model](model.png)
 
 ### 🔹 Comparison (Real vs Model)
 
